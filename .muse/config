@@ -1,2 +1,1 @@
-
-verifiers = [ "pyrecheck" ]
+verifiers = [ "pyre" ]
